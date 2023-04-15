@@ -5,11 +5,10 @@
 # we do not need to version control the Starter Content and the Assets we got from the market place
 =======
 
-Content/FPS_Weapon_Bundle/*
-Content/InfinityBladeEffects/*
-Content/InfinityBladeGrassLands/*
-Content/StarterContent/*
 
+Content/StarterContent/*
+Content/MilitaryWeapSilver/*
+Content/ShooterGame/*
 =======
 
 # Visual Studio 2015 user specific files

@@ -5,7 +5,8 @@
 # we do not need to version control the Starter Content and the Assets we got from the market place
 =======
 
-
+Content/MilitaryWeapSilver/*
+Content/ShooterGame/*
 Content/StarterContent/*
 
 =======
